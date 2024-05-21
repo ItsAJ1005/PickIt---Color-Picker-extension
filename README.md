@@ -1,5 +1,8 @@
 # PickIt 🌈 Color Picker Extension 🎨
 
+<video src="https://github.com/ItsAJ1005/PickIt---Color-Picker-extension/assets/122255411/cbed0fc1-9aa5-4829-bb91-c10c8dd62d7f" height="50%"  autoplay></video>
+
+
 ## Description
 
 🎨 Welcome to PickIt, the immersive color picker extension that turns your browser into a canvas of endless possibilities! 🚀✨ Easily capture the vibrant hues of your digital world and unleash your inner artist🖼.. PickIt provides a seamless experience with a shimmering history of colors, allowing you to effortlessly copy🖌✨ or clear them with just a click. Let your creativity flow! 🖌️🌈
